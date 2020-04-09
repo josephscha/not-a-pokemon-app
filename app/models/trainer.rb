@@ -4,4 +4,6 @@ class Trainer < ApplicationRecord
     has_many :badges
     has_many :battles
     has_many :gym_leaders, through: :battles
+    has_many :shops
+    has_many :items, through: :shops
 end

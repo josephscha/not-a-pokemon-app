@@ -1,2 +1,5 @@
 class PokemonTrainersController < ApplicationController
+
 end
+
+
