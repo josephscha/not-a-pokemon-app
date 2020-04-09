@@ -1,0 +1,2 @@
+module PokemonGymLeadersHelper
+end

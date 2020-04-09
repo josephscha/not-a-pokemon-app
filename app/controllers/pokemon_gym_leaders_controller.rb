@@ -1,0 +1,2 @@
+class PokemonGymLeadersController < ApplicationController
+end
