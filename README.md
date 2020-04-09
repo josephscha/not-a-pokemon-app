@@ -1,25 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Not-A-Pokemon-App
+    This app is STRICTLY for educational purpose. Practice visualizing and writing out methods and custom routes while making a fun interactive pokemon "game". 
 
-Things you may want to cover:
+### Under construction
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # not-a-pokemon-app
